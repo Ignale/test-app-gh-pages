@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "fake server",
   "main": "server.js",
+  "engines": {
+    "node": "18.x"
+  },
   "dependencies": {
     "json-server": "^0.17.1",
     "json-server-auth": "^2.1.0"
