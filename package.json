@@ -9,10 +9,19 @@
   "scripts": {
     "start": "node server.js"
   },
+  "author": "ale",
+  "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.1",
     "json-server-auth": "^2.1.0"
   },
-  "author": "ale",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ignale/test-app-gh-pages.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Ignale/test-app-gh-pages/issues"
+  },
+  "homepage": "https://github.com/Ignale/test-app-gh-pages#readme"
 }
