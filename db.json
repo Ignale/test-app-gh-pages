@@ -1,0 +1,139 @@
+{
+  "users": [
+    {
+      "email": "ignat.lex@gmail.com",
+      "password": "$2a$10$1EIZR2s1cLIts0h4ZLmY6u6hP0Qmi0vw0wQKQwxMlYiJB.PmymL5q",
+      "name": "Alex",
+      "sirname": "Ignatev",
+      "id": 1
+    },
+    {
+      "email": "igna.lex@yandex.ru",
+      "password": "$2a$10$.SvN0im2Kx/WZM1.gKWOj.uhB.jaSALaTDGyl0zOoZ5qcGU3VfcNW",
+      "name": "asdfsadf",
+      "sirname": "asdfsadf",
+      "id": 2
+    },
+    {
+      "email": "dina@horizonevents.ru",
+      "password": "$2a$10$9V6bTthP0ifOcbiFM53PYeDiJgMWMsxI3bQGvHdCNmZgpPm78.ywi",
+      "name": "iMac",
+      "sirname": "asdfsadf",
+      "id": 3
+    }
+  ],
+  "contacts": [
+    {
+      "id": 3,
+      "name": "Alex",
+      "phone": "+79997055002",
+      "additionalInfo": "Front-end developer",
+      "userId": 1
+    },
+    {
+      "id": 5,
+      "name": "Alex",
+      "phone": "+79997055002",
+      "additionalInfo": "Front-end developer",
+      "userId": 1
+    },
+    {
+      "name": "Anna",
+      "additionalInfo": "Copywriter",
+      "phone": "+79152645919",
+      "userId": "1",
+      "id": 10
+    },
+    {
+      "name": "Alex Ignatevf",
+      "additionalInfo": "Back-end developer",
+      "phone": "+905510877679",
+      "userId": "3",
+      "id": 11
+    },
+    {
+      "name": "Alex Ignatev",
+      "additionalInfo": "Front-end",
+      "phone": "79092431119",
+      "userId": "1",
+      "id": 14
+    },
+    {
+      "name": "Alex Ignatev",
+      "additionalInfo": "Front-end",
+      "phone": "79092431119",
+      "userId": "1",
+      "id": 15
+    },
+    {
+      "name": "Alex Ignatev",
+      "additionalInfo": "Front-end",
+      "phone": "79092431119",
+      "userId": "1",
+      "id": 16
+    },
+    {
+      "name": "Alex Ignatev",
+      "additionalInfo": "Front-end",
+      "phone": "79092431119",
+      "userId": "1",
+      "id": 17
+    },
+    {
+      "name": "Alex Ignatev",
+      "additionalInfo": "Front-end",
+      "phone": "79092431119",
+      "userId": "1",
+      "id": 18
+    },
+    {
+      "name": "Alex Ignatev",
+      "additionalInfo": "Copywriter",
+      "phone": "+79152645919",
+      "userId": "1",
+      "id": 19
+    },
+    {
+      "name": "Alex Ignatev",
+      "additionalInfo": "Copywriter",
+      "phone": "+79152645919",
+      "userId": "1",
+      "id": 20
+    },
+    {
+      "name": "ererer",
+      "additionalInfo": "Copywriter",
+      "phone": "+79152645919",
+      "userId": "2",
+      "id": 21
+    },
+    {
+      "name": "ererer",
+      "additionalInfo": "Copywriter",
+      "phone": "+79152645919",
+      "userId": "2",
+      "id": 22
+    },
+    {
+      "name": "Anna",
+      "additionalInfo": "Front-end",
+      "phone": "+7 999 705 50 02",
+      "userId": "2",
+      "id": 23
+    },
+    {
+      "name": "ererer",
+      "additionalInfo": "Back-end developer",
+      "phone": "+79152645919",
+      "userId": "3",
+      "id": 24
+    },
+    {
+      "name": "ererer",
+      "additionalInfo": "Back-end developer",
+      "phone": "+79152645919",
+      "userId": "3",
+      "id": 25
+    }
+  ]
+}
